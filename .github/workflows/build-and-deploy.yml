@@ -34,8 +34,6 @@ jobs:
           cache: ${{ steps.detect-package-manager.outputs.manager }}
       - name: Install dependencies
         run: npm install
-      - name: Use legacy build option
-        run: export NODE_OPTIONS=--openssl-legacy-provider
       - name: Build app
         run: npm run build
       - name: Upload artifact
