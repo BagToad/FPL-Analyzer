@@ -4,7 +4,7 @@
   "license": "MIT",
   "scripts": {
     "test": "ng serve -o",
-    "build": "ng build --prod --base-href \"https://sw8lde.github.io/FPL-Analyzer/\" && npx ngh"
+    "build": "ng build --prod --base-href \"https://bagtoad.github.io/FPL-Analyzer/\" && npx ngh"
   },
   "private": true,
   "dependencies": {
