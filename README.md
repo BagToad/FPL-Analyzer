@@ -1,6 +1,8 @@
-# FPL Analyzer
+# NOTICE
 
 ⚠️ This repo is a fork of sw8lde/FPL-Analyzer. I forked it and re-deployed to GitHub Pages since the original is down. ⚠️ 
+
+# FPL Analyzer
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.3.2.
 
